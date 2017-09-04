@@ -1,0 +1,25 @@
+body{
+  padding-top: 100px;
+  padding-left: 30%;
+  font-family: Georgia, "Times New Roman",
+    Times, serif;
+  color: black;
+  background-color: #1ABC9C;
+}
+
+table{
+  border-collapse: separate;
+  border-spacing: 10px;
+  background-color: grey;
+  boder: 3px solid blue;
+  margin 50 auto;
+}
+
+td {
+  background-color: beige;
+  border: 1px solid #34495E;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+  text-align: center;
+}
